@@ -39,3 +39,4 @@ I like the world of programming, especially on the Front End. My skills are stil
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/nazn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://trakteer.id/czaha" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
